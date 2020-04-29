@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/homework20/static/css/main.2d786bf8.chunk.css",
+    "main.js": "/homework20/static/js/main.feaa51c8.chunk.js",
+    "main.js.map": "/homework20/static/js/main.feaa51c8.chunk.js.map",
+    "runtime-main.js": "/homework20/static/js/runtime-main.68469d79.js",
+    "runtime-main.js.map": "/homework20/static/js/runtime-main.68469d79.js.map",
+    "static/js/2.75d5e178.chunk.js": "/homework20/static/js/2.75d5e178.chunk.js",
+    "static/js/2.75d5e178.chunk.js.map": "/homework20/static/js/2.75d5e178.chunk.js.map",
+    "index.html": "/homework20/index.html",
+    "precache-manifest.79fd2866c1a627d2c7005fc4ef2a3bf4.js": "/homework20/precache-manifest.79fd2866c1a627d2c7005fc4ef2a3bf4.js",
+    "service-worker.js": "/homework20/service-worker.js",
+    "static/css/main.2d786bf8.chunk.css.map": "/homework20/static/css/main.2d786bf8.chunk.css.map",
+    "static/js/2.75d5e178.chunk.js.LICENSE.txt": "/homework20/static/js/2.75d5e178.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/homework20/static/media/Roboto-Regular.90679e0c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68469d79.js",
+    "static/js/2.75d5e178.chunk.js",
+    "static/css/main.2d786bf8.chunk.css",
+    "static/js/main.feaa51c8.chunk.js"
+  ]
+}
